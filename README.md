@@ -1,1 +1,1 @@
-# ISC---Tree-Team
+# ISC - Tree Design for homepage
